@@ -1,5 +1,7 @@
 # alt-school-exam3
 
+#### https://beamish-concha-db6a4b.netlify.app/
+
 ## Project setup
 ```
 npm install
@@ -18,4 +20,3 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-https://beamish-concha-db6a4b.netlify.app/
